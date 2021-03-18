@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 --> :soccer: I love football
 --> :drum: : I love playing the drums
 
-[![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
 
 ![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames&show_icons=true&theme=onedark)
 
