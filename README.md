@@ -10,11 +10,9 @@ Here are some ideas to get you started:
 -  :bulb: [DEV](https://dev.to/davidakinjames)
 -  :office: [LinkedIn](https://www.linkedin.com/in/akinwande-david-akin-james-58b411198/)
 -  :speech_balloon: [FACEBOOK](https://web.facebook.com/david.akinjames.5/)
-- ⚡ Fun fact: ...
-- 
+- ⚡ Fun fact About me:
 --> :soccer: I love football
-
---> :drum: : I play the drums
+--> :drum: : I love playing the drums
 
 [![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
 
