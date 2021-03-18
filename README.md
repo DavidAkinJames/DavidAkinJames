@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 -  :office: [LinkedIn](https://www.linkedin.com/in/akinwande-david-akin-james-58b411198/)
 -  :speech_balloon: [FACEBOOK](https://web.facebook.com/david.akinjames.5/)
 - ⚡ Fun fact: ...
+- 
 --> :soccer: I love football
+
 --> :drum: : I play the drums
 
 [![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
