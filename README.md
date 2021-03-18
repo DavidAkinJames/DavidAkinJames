@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 --> :drum: : I play the drums
 
 [![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
