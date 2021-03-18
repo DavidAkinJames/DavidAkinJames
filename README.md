@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming the best version of myself.
-- - 🌱 I’m addicted to learning and growing every day.
+ - 🌱 I’m addicted to learning and growing every day.
 - 🌱 I’m currently learning React and NodeJS
 - 💬 Ask me about ...
 - 📫 How to reach me:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 --> :soccer: I love football
 --> :drum: : I play the drums
 
-[![David Akin-James github stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames=&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
