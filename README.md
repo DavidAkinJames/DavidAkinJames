@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on becoming the best version of myself.
+- 🔭 I’m currently working on building more projects.
  - 🌱 I’m addicted to learning and growing every day.
 - 🌱 I’m currently learning React and NodeJS
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![David Akin-James GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAkinJames&show_icons=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAkinJames)](https://github.com/anuraghazra/github-readme-stats)
