@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:
 -  :bulb: [DEV](https://dev.to/davidakinjames)
+-  :desktop_computer:[Email](https://mail.google.com/mail/u/0/#inbox)
 -  :office: [LinkedIn](https://www.linkedin.com/in/akinwande-david-akin-james-58b411198/)
--  :speech_balloon: [FACEBOOK](https://web.facebook.com/david.akinjames.5/)
+-  :speech_balloon: [Facebook](https://web.facebook.com/david.akinjames.5/)
 - ⚡ Fun fact About me:
 --> :soccer: I love football
 --> :drum: : I love playing the drums
