@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ## Fun fact About me:
 
-- 🔭 I’m currently working on building more project and my portfolio.
+- 🔭 I'm currently developing personal projects and learning new things each day.
  - 🌱 I’m addicted to learning and growing every day.
 - 🌱 I’m currently learning React and NodeJS
 - 💬 Ask me about ...
