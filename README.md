@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently developing personal projects and learning new things each day.
  - 🌱 I’m addicted to learning and growing every day.
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently learning ReactJs, Redux,NodeJS, Bootstrap, Redux.
 - 💬 Ask me about ...
 - 📫 How to reach me:
 -  :bulb: [DEV](https://dev.to/davidakinjames)
