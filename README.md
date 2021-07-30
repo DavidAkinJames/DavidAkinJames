@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 
-## Skills and Experience: 
-* :snowflake:  React
-* :iphone: React, NodeJs
+## Interested in: 
+* :snowflake:  React,Redux,Hooks,NextJs,Gatsby,GraphQL
+* :iphone: NodeJs,MongoDb, Firebase,
 * :computer: HTML, CSS, JS
 
 ## Fun fact About me:
