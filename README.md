@@ -1,11 +1,11 @@
-### Hi there 👋 I am David Akin-James I am self Taught Developer.
+### Hi there 👋 I am David I am Physics grad who is interested in becoming a full stack developer. I have been on this self journey process to lay a solid foundation in both frontend and backend technologies. Currently, I am a Frontend intern at HNGi8. The goal is to become a reliable and productive full stack developer that builds for the future.
 
 Here are some ideas to get you started:
 
 
 ## Interested in: 
-* :snowflake:  React,Redux,Hooks,NextJs,Gatsby,GraphQL
-* :iphone: NodeJs,MongoDb, Firebase,
+* :snowflake:  React,Redux,Hooks,NextJs,Gatsby,
+* :iphone: NodeJs,MongoDb, Firebase,GraphQl
 * :computer: HTML, CSS, JS
 
 ## Fun fact About me:
