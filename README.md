@@ -1,4 +1,4 @@
-### Hi there 👋 I am David I am Physics grad who is interested in becoming a frontend developer. I have been on this self journey process to lay a solid foundation in both frontend and backend technologies. Currently, I am a Frontend intern at HNGi8. My goal is to become a reliable and productive full stack developer that builds for the future.
+### Hi there 👋 I am David I am Physics grad who is interested in becoming a frontend developer. I have been on this self journey process to lay a solid foundation in both frontend and backend technologies. My goal is to become a reliable and productive full stack developer that builds for the future.
 
 Here are some ideas to get you started:
 
